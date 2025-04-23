@@ -31,7 +31,7 @@
         {
           "binding": "DB",
           "database_name": "uptime-monitor-prod",
-          "database_id": "UPDATE_ME_D1_ID",
+          "database_id": "5beb2a85-cf7d-402e-8a07-dd316768d48e",
           "migrations_dir": "src/db/migrations"
         }
       ]
